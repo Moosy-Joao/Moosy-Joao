@@ -29,7 +29,6 @@ Welcome to my profile. ♟
   <img src="https://github-readme-stats.vercel.app/api?username=Moosy-Joao&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&line_height=20" width="60.28%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moosy-Joao&theme=dark&layout=compact&show_icons=true&title_color=4C42FF&icon_color=4C42FF" width="38.77%">
 </p>
-
 <div>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
