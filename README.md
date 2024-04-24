@@ -33,3 +33,9 @@ Welcome to my profile. ♟
     <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=truenimation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
   </picture>
 </div>
+
+<div align="center">
+  
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=3006a1&center=true&random=false&width=435&lines=Welcome+abort+the+ship!)
+
+</div>
