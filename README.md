@@ -24,4 +24,16 @@ Welcome to my profile. ♟
 
  ## 📖 Learning
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/> <img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" title ="CSS" alt="CSS" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/> <img src="https://github.com/Moosy-Joao/Moosy-Joao/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" title ="CSS" alt="CSS" width="55" height="55"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moosy-Joao&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&line_height=20" width="60.28%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moosy-Joao&theme=dark&layout=compact&show_icons=true&title_color=4C42FF&icon_color=4C42FF" width="38.77%">
+</p>
+
+<div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=false">
+    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=truenimation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+  </picture>
+</div>
