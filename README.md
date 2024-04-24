@@ -36,6 +36,6 @@ Welcome to my profile. ♟
 
 <div align="center">
   
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=eff0bd&center=true&random=false&width=435&lines=Welcome+to+my+Github+profile!)
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=eff0bd&center=true&random=false&width=444&lines=Welcome+to+my+Github+profile!)
 
 </div>
