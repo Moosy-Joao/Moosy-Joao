@@ -30,7 +30,11 @@ Welcome to my profile. ♟
 
  ## 📖 Learning
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/> <img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" title ="CSS" alt="CSS" width="55" height="55"/> <img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48](http://www.w3.org/2000/svg)" title ="REACT" alt="REACT" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/>
+<img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" title ="CSS" alt="CSS" width="55" height="55"/>
+<svg src="file:///C:/Users/Moosy/Downloads/react-1.svg" title = "REACT" alt="REACT" width="55" height="55"/>
+
 </p>
 <div>
 <picture>
