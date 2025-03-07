@@ -9,8 +9,8 @@
 <h1><strong>Hello!</strong></h1>
 
 I’m João Marques, I like programming and competitive games.
-I'm 19 years old and I'm studying software engineering.
-Currently studying HTML CSS and C.
+I'm 20 years old and I'm studying software engineering.
+Currently studying HTML, CSS, C and React.
 In the future I intend to study JS, Python and SQL.
 And this is me.
 Welcome to my profile. ♟
@@ -26,7 +26,7 @@ Welcome to my profile. ♟
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying *Software Engineering* at <a href="https://unicv.edu.br/">UNICV</a>.
-- 🌱 Learning more about *HTML, CSS, and C*.
+- 🌱 Learning more about *HTML, CSS, C, React*.
 
  ## 📖 Learning
 
