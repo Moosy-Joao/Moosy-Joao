@@ -1,7 +1,7 @@
 <!-- GIF Animado -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/main.gif" width="100%">
-</p> <br>
+</p>
 
 <!-- Contribuições -->
 <div align="center">
@@ -49,4 +49,4 @@ Disponível para contratação.
 ## 📖 Skills
 LRD|HTML|CSS|JavaScript|React|Node.Js|Git
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40"/> <img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" width="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40"/> <img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" width="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/>
