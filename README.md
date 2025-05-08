@@ -30,11 +30,11 @@
 <h1 align="center"><strong>OLÁ!</strong></h1>
 
 <p align="center">
-Sou João Marques, gosto de programação e jogos competitivos.
+Sou João Marques.
 Tenho 20 anos e estou cursando Engenharia de Software.
-Atualmente estudando HTML, CSS, C e React.
-No futuro pretendo estudar JS, Python e SQL.
-E esse sou eu. Bem-vindo ao meu perfil. ♟
+Atualmente atuando como freelancer na área de desenvolvimento de software sobre encomenda, com foco na entrega.
+Disponível para contratação.
+Bem-vindo ao meu perfil. ♟
 </p>
 
 <!-- Typing animation -->
@@ -42,15 +42,12 @@ E esse sou eu. Bem-vindo ao meu perfil. ♟
   <img src="http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=eff0bd&center=true&random=false&width=500&lines=Welcome+to+my+Github+profile!" />
 </p>
 
-<!-- Sobre mim -->
-## 🪐 Sobre Mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções em software.  
 - 🎓 🎓 Cursando *Engenharia de Software* na at <a href="https://unicv.edu.br/">UNICV</a>.  
-- 🌱 Aprendendo mais sobre *HTML, CSS, C, React*.
 
-<!-- Aprendendo -->
-## 📖 Aprendendo
+<!-- HABILIDADES-->
+## 📖 Skills
+LRD|HTML|CSS|JavaScript|React|Node.Js
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/>
