@@ -49,7 +49,4 @@ Disponível para contratação.
 ## 📖 Skills
 LRD|HTML|CSS|JavaScript|React|Node.Js|Git
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/>
-<img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" title ="CSS" alt="CSS" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACT" alt="REACT" width="55" height="55"/>
+<<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="55"/> | <img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" width="55"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="55"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="55"/> |
