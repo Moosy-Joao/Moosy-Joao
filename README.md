@@ -34,7 +34,7 @@ Sou João Marques.
 Tenho 20 anos e estou cursando Engenharia de Software.
 Atualmente atuando como freelancer na área de desenvolvimento de software sobre encomenda, com foco na entrega.
 Disponível para contratação.
-Bem-vindo ao meu perfil. ♟
+ ♟
 </p>
 
 <!-- Typing animation -->
