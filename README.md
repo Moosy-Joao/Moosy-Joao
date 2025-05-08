@@ -1,7 +1,7 @@
 <!-- GIF Animado -->
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/main.gif" width="100%">
+  .<img src="https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/main.gif" width="100%">
 </p>
 
 <!-- Introdução -->
