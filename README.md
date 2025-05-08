@@ -15,7 +15,7 @@ Disponível para contratação.
 </p>
 
 
-- 🎓 🎓 Cursando *Engenharia de Software* na <a href="https://unicv.edu.br/">UNICV</a>.  
+- 🎓 🎓 Cursando *Engenharia de Software* no <a href="https://unicv.edu.br/">UNICV</a>.  
 
 <!-- HABILIDADES-->
 ## 📖 Skills
