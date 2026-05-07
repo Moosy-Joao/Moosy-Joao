@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro Marques</h1>
 
 <p align="center">
-  Desenvolvedor Back-End em formação | C# • .NET • APIs REST • PostgreSQL
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;C%23+%E2%80%A2+.NET+%E2%80%A2+APIs+REST+%E2%80%A2+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+com+regras+de+neg%C3%B3cio+reais" alt="Typing SVG" />
 </p>
 
 <p align="center">
