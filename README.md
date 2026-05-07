@@ -43,17 +43,20 @@ Meu objetivo é evoluir como desenvolvedor back-end, construindo sistemas úteis
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Ferramentas
+### Ferramentas e banco de dados
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -63,13 +66,18 @@ Meu objetivo é evoluir como desenvolvedor back-end, construindo sistemas úteis
 
 Sistema de controle de crédito informal para pequenos comerciantes, permitindo gerenciar clientes, vendas fiadas, pagamentos, saldo devedor e inadimplência.
 
-**Principais pontos do projeto:**
+**O que aprendi com esse projeto:** aprofundei a construção de uma API com regra de negócio real, organização em camadas, integração com banco relacional, documentação de endpoints e modelagem de funcionalidades voltadas para um problema prático.
 
-- API para gerenciamento de clientes, vendas e pagamentos
-- Regras de negócio para controle de saldo e limite de crédito
-- Banco de dados relacional
-- Documentação de endpoints com Swagger
-- Estrutura voltada para separação de responsabilidades
+**Tecnologias e linguagens utilizadas:**
+
+- C#
+- .NET 10
+- ASP.NET Core Web API
+- Entity Framework Core
+- PostgreSQL
+- JWT Bearer
+- Swagger / Swashbuckle
+- Docker
 
 Repositório: [O_Facilitador](https://github.com/Moosy-Joao/O_Facilitador)
 
@@ -77,9 +85,18 @@ Repositório: [O_Facilitador](https://github.com/Moosy-Joao/O_Facilitador)
 
 ### API Controle de Estoque
 
-API REST acadêmica para controle de estoque, organizada em camadas como entidades, services, repositories e controllers.
+API REST acadêmica para controle de estoque, organizada em camadas como entidades, serviços, repositórios e controllers.
 
-**Tecnologias utilizadas:** Java, Spring Boot, Spring Data JPA, Maven e H2/PostgreSQL.
+**O que aprendi com esse projeto:** pratiquei a estruturação de uma API REST com Java e Spring Boot, separando responsabilidades entre camadas, utilizando padrões de resposta HTTP e trabalhando com persistência de dados via JPA.
+
+**Tecnologias e linguagens utilizadas:**
+
+- Java 17+
+- Spring Boot
+- Spring Data JPA
+- Maven
+- H2
+- PostgreSQL
 
 Repositório: [API-Controle-de-Estoque](https://github.com/Moosy-Joao/API-Controle-de-Estoque)
 
@@ -87,7 +104,22 @@ Repositório: [API-Controle-de-Estoque](https://github.com/Moosy-Joao/API-Contro
 
 ### Auth JWT Token
 
-Projeto de estudo focado em autenticação e autorização utilizando JWT.
+API de estudo voltada para autenticação, autorização e controle de sessão utilizando JWT, banco relacional e cache.
+
+**O que aprendi com esse projeto:** pratiquei autenticação com JWT, criptografia de senha, estruturação de API com Node.js/Express, integração com PostgreSQL via Sequelize, uso de Redis e documentação de rotas com Swagger.
+
+**Tecnologias e linguagens utilizadas:**
+
+- JavaScript
+- Node.js
+- Express.js
+- JWT / jsonwebtoken
+- bcryptjs
+- PostgreSQL
+- Sequelize
+- Redis
+- Docker Compose
+- Swagger UI Express
 
 Repositório: [auth_jwt_token](https://github.com/Moosy-Joao/auth_jwt_token)
 
@@ -95,7 +127,17 @@ Repositório: [auth_jwt_token](https://github.com/Moosy-Joao/auth_jwt_token)
 
 ### PortfolioV2
 
-Repositório destinado ao meu portfólio pessoal e apresentação profissional.
+Repositório destinado ao meu portfólio pessoal e apresentação profissional na web.
+
+**O que aprendi com esse projeto:** pratiquei estruturação de página institucional, responsividade, organização visual, SEO básico com meta tags, acessibilidade inicial e publicação de informações profissionais em formato web.
+
+**Tecnologias e linguagens utilizadas:**
+
+- HTML5
+- CSS3
+- JavaScript
+- SEO básico
+- Responsividade
 
 Repositório: [PortfolioV2](https://github.com/Moosy-Joao/PortfolioV2)
 
