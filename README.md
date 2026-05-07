@@ -2,9 +2,9 @@
 <h1 align="center"><strong>OLÁ!</strong> 👋</h1>
 
 <p align="center">
-Sou <strong>João Marques</strong>, tenho 20 anos e estou cursando <strong>Engenharia de Software</strong>.<br>
+Sou <strong>João Marques</strong>, tenho 21 anos e estou cursando <strong>Engenharia de Software</strong>.<br>
 Atualmente trabalho como <strong>freelancer</strong> no desenvolvimento de software sob encomenda, com foco total na entrega de valor.<br>
-📬 <em>Aberto a oportunidades e colaborações!</em> ♟
+📬 <em>Desenvolvedor Back-End em formação, focado em C#, .NET, APIs REST, PostgreSQL e arquitetura de sistemas.</em> ♟
 </p>
 
 <!-- Typing animation -->
