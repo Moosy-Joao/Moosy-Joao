@@ -1,53 +1,105 @@
-<!-- Introdução -->
-<h1 align="center"><strong>OLÁ!</strong> 👋</h1>
+<h1 align="center">João Pedro Marques</h1>
 
 <p align="center">
-Sou <strong>João Marques</strong>, tenho 21 anos e estou cursando <strong>Engenharia de Software</strong>.<br>
-Atualmente trabalho como <strong>freelancer</strong> no desenvolvimento de software sob encomenda, com foco total na entrega de valor.<br>
-📬 <em>Desenvolvedor Back-End em formação, focado em C#, .NET, APIs REST, PostgreSQL e arquitetura de sistemas.</em> ♟
+  Desenvolvedor Back-End em formação | C# • .NET • ASP.NET Core • PostgreSQL
 </p>
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=eff0bd&center=true&random=false&width=500&lines=Welcome+to+my+GitHub+profile!" />
-</p>
+---
 
-<!-- Educação -->
-- 🎓 Cursando <strong>Engenharia de Software</strong> na <a href="https://unicv.edu.br/">UNICV</a>
+## Sobre mim
 
-<!-- HABILIDADES -->
-## 🚀 Skills
-<div align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" /></code>
-  <code><img height="40" src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" alt="CSS" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" /></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" /></code>
-</div>
+Sou estudante de Engenharia de Software e estou direcionando minha carreira para desenvolvimento back-end com foco em C#, .NET, APIs REST, banco de dados relacionais e boas práticas de arquitetura.
 
-<!-- Contribuições -->
-## 📊 Contribuições recentes
+Atualmente estudo e desenvolvo projetos envolvendo:
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=false">
-    <img alt="Gráfico de contribuições" src="https://ssr-contributions-svg.vercel.app/_/Moosy-Joao?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=true">
-  </picture>
-</div>
+- APIs REST com ASP.NET Core
+- Entity Framework Core
+- PostgreSQL
+- Autenticação com JWT
+- Docker
+- Organização em camadas
+- Regras de negócio
+- Git, GitHub e Pull Requests
 
-<!-- Redes Sociais -->
-## 🌐 Conecte-se comigo
+Meu objetivo é evoluir como desenvolvedor back-end, criando sistemas bem estruturados, documentados e com valor real para o usuário.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joão-pedro-pereira-marques-a24120254" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/joao._.marq" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:jpp15marques@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+---
+
+## Tecnologias
+
+### Back-End
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Front-End e Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+### O Facilitador
+Sistema de crédito para pequenos comerciantes controlarem clientes, vendas fiadas, pagamentos e inadimplência.
+
+**Tecnologias:** C#, ASP.NET Core, PostgreSQL, Entity Framework Core, Docker, Swagger.
+
+Principais pontos técnicos:
+
+- API REST estruturada em camadas
+- Cadastro de clientes
+- Registro de vendas fiadas
+- Controle de pagamentos
+- Atualização de saldo devedor
+- Regras de negócio para limite de crédito e inadimplência
+- Documentação via Swagger
+
+Repositório: [O_Facilitador](https://github.com/Moosy-Joao/O_Facilitador)
+
+---
+
+### API Controle de Estoque
+API para controle de produtos, fornecedores, compras, vendas e estoque.
+
+**Tecnologias:** Java, Spring Boot, banco de dados relacional.
+
+Repositório: [API-Controle-de-Estoque](https://github.com/Moosy-Joao/API-Controle-de-Estoque)
+
+---
+
+### Auth JWT Token
+Projeto focado em autenticação e autorização utilizando JWT.
+
+**Tecnologias:** C#, .NET, JWT.
+
+Repositório: [auth_jwt_token](https://github.com/Moosy-Joao/auth_jwt_token)
+
+---
+
+## Atualmente estudando
+
+- C# e .NET
+- ASP.NET Core Web API
+- Entity Framework Core
+- PostgreSQL
+- Testes unitários e de integração
+- Clean Architecture
+- Boas práticas de Git e Pull Requests
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Pedro_Marques-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-pereira-marques-a24120254)
+[![Gmail](https://img.shields.io/badge/Gmail-jpp15marques@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpp15marques@gmail.com)
